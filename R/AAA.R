@@ -1,12 +1,12 @@
 
-#' @importFrom graphics   arrows axis par points text
-#' @importFrom methods    as new slot
-#' @importFrom stats      rnorm rpois
+#' @importFrom graphics        arrows axis par points text
+#' @importFrom methods         as new slot
+#' @importFrom stats           rnorm rpois
 
-#' @importFrom rgeos      gBuffer gIntersection gUnionCascaded gTouches readWKT
-#' @importFrom spdep      poly2nb card nblag
-#' @importFrom deldir     deldir tile.list
-#' @importFrom spatstat   ripras
+#' @importFrom rgeos           gBuffer gIntersection gUnionCascaded gTouches readWKT
+#' @importFrom spdep           poly2nb card nblag
+#' @importFrom deldir          deldir tile.list
+#' @importFrom spatstat.geom   ripras
 
 #' @import sp   
 
@@ -22,4 +22,3 @@
 
 	
 }
-
