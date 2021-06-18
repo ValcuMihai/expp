@@ -16,18 +16,19 @@ Imports:
     spdep,   
     rgeos,   
     deldir,  
-    spatstat
+    spatstat.geom
 Suggests: 
     roxygen2,    
     knitr, 
-    lme4
+    lme4,
+    rmarkdown
 VignetteBuilder: 
     knitr
 Description: 
     Tools and data to accompany Schlicht, L., Valcu, M., & Kempenaers, B. (2015) <doi:10.1111/1365-2656.12293>. Spatial patterns of extra-pair paternity: beyond paternity gains and losses. Journal of Animal Ecology, 84(2), 518-531.
 License: GPL-3
 Encoding: UTF-8
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.1
 Collate: 
     'AAA.R'
     'eppMatrix.R'
