@@ -18,7 +18,5 @@
 	dcf <- read.dcf(file=system.file("DESCRIPTION", package=pkgname) )
     
 	packageStartupMessage(paste('This is', pkgname, dcf[, "Version"], 'For a tutorial type vignette("expp")' ))
-  
-
 	
 }
