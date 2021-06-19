@@ -1,7 +1,7 @@
 Package: expp
 Type: Package
 Title: Spatial Analysis of Extra-Pair Paternity
-Version: 1.2.4
+Version: 1.2.5
 Authors@R: c(
   person("Mihai", "Valcu", ,"valcu@orn.mpg.de", c("aut", "cre")),
   person("Lotte", "Schlicht", role = "ctb")
